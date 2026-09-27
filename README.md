@@ -533,24 +533,3 @@ GitHub:
 This project is provided for educational and portfolio purposes.
 
 The repository does not contain the official organization's production application or proprietary production data.
-
-````
-
-### One important thing for your screenshots
-
-Create a folder in your project:
-
-```text
-screenshots/
-````
-
-and put your actual screenshots there:
-
-```text
-screenshots/
-├── login.png
-├── dashboard.png
-├── create-post.png
-├── all-posts.png
-└── excel-export.png
-```
